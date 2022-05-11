@@ -20,8 +20,8 @@ Wolf, goat , cabbage at the first bank waiting to be transferred to the other ba
 
 - Goal Test:
 
-Did the farmer and his purchases arrive safely to the other bank of the river ?
+Did we complete a row/ column of x/o
 
 - Path Cost: 
 
-Effort and time of the transferring.
+Effort and time
