@@ -10,8 +10,9 @@ ODESA:
      1- Observability : fully observable 
      2- Deterministic: deterministic
      3- Episode:sequential
-     4- Static: static
-     5- Agent: single agent 
+     4- Static: semi dynamic
+     5- Agent: 2-agents
+     6- Type of enviroment : discrete
      
 Type of agent:
 --------------
