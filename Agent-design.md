@@ -1,9 +1,9 @@
 PEAS:
 -----------
     1- Performance measure : success the goal
-    2- Environment :boat,river,human,wolf,goat,cabbage
+    2- Environment : game board , 2 players , timer
     3- Actuator : let user to move in the environment 
-    4- Sensor : screen , mouse , keyboard 
+    4- Sensor : screen , mouse,keyboard 
   
 ODESA:
 -------
