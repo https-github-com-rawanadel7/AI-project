@@ -3,7 +3,7 @@ Problem Formulation:
 
 - Initial state :
 
-Wolf, goat , cabbage at the first bank waiting to be transferred to the other bank , farmer has to carry one thing with him.
+play board is empty 
 
 - Successor function : 
 
