@@ -8,15 +8,11 @@ play board is empty
 - Successor function : 
 
 
-    Step 1 : farmer takes the goat with him and leaves it on the other bank.
+    Step 1 : assume we are playing with X, place the first X in the center.
 
-    Step 2 :the farmer returns and take the cabbage to the other side and take the goat back. 
+    Step 2 : whatever move the O player will take, place the next X in one of the corners. 
 
-    Step 3: the farmer leaves the goat on the first bank and take the wolf with him to the other bank.
-
-    Step 4 : the farmer leaves the wolf with the cabbage and return to bring the goat.
-
-    Step 5 :the farmer returns and bring the goat and return to the other bank.
+    Step 3: depending on the other player move, place the X in a way that forms a row or a column.
 
 - Goal Test:
 
